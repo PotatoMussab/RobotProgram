@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\RobotProgram\RobotProgram\bin\Debug\RobotProgram.exe.config
+D:\Visual Studio Projects\RobotProgram\RobotProgram\bin\Debug\RobotProgram.exe
+D:\Visual Studio Projects\RobotProgram\RobotProgram\bin\Debug\RobotProgram.pdb
+D:\Visual Studio Projects\RobotProgram\RobotProgram\obj\Debug\RobotProgram.MyForm.resources
+D:\Visual Studio Projects\RobotProgram\RobotProgram\obj\Debug\RobotProgram.Properties.Resources.resources
+D:\Visual Studio Projects\RobotProgram\RobotProgram\obj\Debug\RobotProgram.csproj.GenerateResource.cache
+D:\Visual Studio Projects\RobotProgram\RobotProgram\obj\Debug\RobotProgram.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\RobotProgram\RobotProgram\obj\Debug\RobotProgram.exe
+D:\Visual Studio Projects\RobotProgram\RobotProgram\obj\Debug\RobotProgram.pdb
+D:\Visual Studio Projects\RobotProgram\RobotProgram\obj\Debug\RobotProgram.csprojAssemblyReference.cache
